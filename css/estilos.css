@@ -1,11 +1,13 @@
 body 
 {
-    color: #333;
+    color: rgb(0, 0, 0);
+    font-style: italic;
     text-align: center;
-    font-family: "Arial";
-    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
     margin: 0;
     padding: 0;
+
 }
 
 #container
@@ -25,5 +27,6 @@ body
 
 #cabecera
 {
-    color: blue;
+    background-color: darkblue;
+    color: darkgray;
 }
